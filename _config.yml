@@ -1,7 +1,7 @@
 name: Auxsome
 favicon: null
-layout_spectrum: 0.5032609207555652
-typography_spectrum: 0.9338142478372902
+layout_spectrum: 0.67903
+typography_spectrum: 0.69013
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#cccccc'
+    - '#808080'
+    - '#4d4d4d'
+    - '#d61c59'
   brandStrength: 0.6024420787580311
   lightness: 0.5048829172737896
-  saturation: 0.891604756237939
+  saturation: 0.75
   rhythmicContrast: 0.3761259976308793
 purpose: []
