@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "If there's a mantra for every day, it's default to action - even if you have to make hard decisions about where to use your strengths and where to give yourself a break."
-datePublished: '2016-02-26T15:03:31.800Z'
-dateModified: '2016-02-26T15:03:20.272Z'
+datePublished: '2016-02-26T15:16:00.022Z'
+dateModified: '2016-02-26T15:15:59.620Z'
 title: Infra-design Eyes
 author: []
+sourcePath: _posts/2016-02-26-infra-design-eyes.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-infra-design-eyes.md
-published: true
 url: infra-design-eyes/index.html
 _type: Article
 
