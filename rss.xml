@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Auxsome]]></title>
-        <description><![CDATA[Auxsome]]></description>
+        <title><![CDATA[A User Experience site, some of the time.  ]]></title>
+        <description><![CDATA[A User Experience site, some of the time.  ]]></description>
         <link>https://thegrid.ai/auxsome/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 18:33:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 15:07:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/auxsome/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Infra-design Eyes]]></title>
+            <description><![CDATA[<article><h1>Infra-design Eyes</h1><p>Here’s the thing I’m trying to remember every day.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6d7ca7d-8296-4f53-b0af-c4b41951af5b.png"></article>]]></description>
+            <link>https://thegrid.ai/auxsome/infra-design-eyes/index.html</link>
+            <guid isPermaLink="false">b3368455-b035-4458-ae14-5da04c7e2941</guid>
+            <pubDate>Fri, 26 Feb 2016 15:03:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6fe356d-5760-47c9-aace-9b77243fcae0.png">]]></description>
